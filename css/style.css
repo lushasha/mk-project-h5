@@ -75,6 +75,20 @@
 .detail_btn i{display: inline-block;width: 40px;position: relative;top: 3px}
 .detail_btn i img{width: 60%;display: inline}
 .padd_b{padding-bottom: 60px}
+/*validate*/
+.rz_box{font-weight: 300px;font-size: 1.3em;}
+.rz_box .phone_form{background: #fff; margin-bottom: 15px;}
+.rz_box .phone_form li{border-bottom:1px solid #e3e3e3;padding: 8px 15px;}
+.rz_box .phone_form li a.getCode{float:right; color: #333333; font-size: 1em;width: 100px;text-align: center; background: #eaeaea;border-radius: 5px;line-height:38px;}
+.rz_box .phone_form li p{overflow: hidden;height: 40px; line-height:40px;text-align: right; padding-right: 10px;}
+.rz_box .phone_form li p input{text-align: left;font-size: 1.1em; font-weight: 200;width: 100%; border: none;}
+.rz_box .phone_form li p input::-webkit-input-placeholder{ color:#cccccc;font-weight: normal;}
+.rz_box .phone_form li p input:-moz-placeholder{ color:#cccccc;font-weight: normal;}
+.rz_box .phone_form li p input::-moz-placeholder{ color:#cccccc;font-weight: normal;}
+.rz_box .phone_form li p input:-ms-input-placeholder{ color:#cccccc;font-weight: normal;}
+.rz_box .pad-15{padding:0 15px;}
+.rz_box .button{ font-size: 1.4em; width:100%; text-align: center;line-height: 50px;color: #fff;border:none;border-radius: 4px;background:#199dd6;}
+.rz_box .title_tip{ font-size: 1.2em;text-align: center;line-height: 50px;color: #8f8f8f;background:#efefef;}
 
 
 
