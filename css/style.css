@@ -35,7 +35,7 @@
 .model_every .small_r .imgr_time{ color: #999999;font-size: 14px; }
 .blue{color: #199dd6;font-weight: normal;}
 /*detail*/
-.banner1{width:750px;}
+.banner1{ height: 240px;margin: 0 auto}
 .join_person{padding: 10px 20px; background: #fcfaf7;color: #333333;font-size: 16px;line-height: 40px;font-weight: 300}
 .join_person .join{border-radius: 100%;border:1px solid #fff; width: 40px; height: 40px;float: left;margin-left: -7px;}
 .join_person .join:first-child{margin-left: 0px;}
@@ -76,6 +76,8 @@
 .detail_btn i{display: inline-block;width: 40px;position: relative;top: 3px}
 .detail_btn i img{width: 60%;display: inline}
 .padd_b{padding-bottom: 60px}
+.old_price{color: #999;font-size: 0.8em;padding-left: 18px;text-decoration:line-through;}
+
 /*validate*/
 .rz_box{font-weight: 300px;font-size: 1.3em;}
 .rz_box .phone_form{background: #fff; margin-bottom: 15px;}
