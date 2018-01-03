@@ -77,7 +77,7 @@
 .detail_btn i img{width: 60%;display: inline}
 .padd_b{padding-bottom: 60px}
 .old_price{color: #999;font-size: 0.8em;padding-left: 18px;text-decoration:line-through;}
-
+.red{color: #f00}
 /*validate*/
 .rz_box{font-weight: 300px;font-size: 1.3em;}
 .rz_box .phone_form{background: #fff; margin-bottom: 15px;}
