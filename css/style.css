@@ -3,9 +3,10 @@
 .header_img{position: relative; width: 72px; height: 72px; background: url(../images/icon2.png) no-repeat center; background-size: cover; margin: 0 auto;}
 .header_img .img_user{width: 72px; height: 72px;margin: 0 auto; border-radius: 50%;}
 .vip{position: absolute;right: -10px;bottom: 0;width: 44px;}
-.name{color: #fff;font-size: 16px; font-weight: 300;line-height: 34px;}
-.search{ text-align: left;margin: 10px 20px 0; padding-left: 40px;border: 1px solid #bfbfbf;overflow: hidden;background: url(../images/icon3.png) no-repeat 10px center #eee; background-size: 8%;}
-.search input{height: 30px; line-height: 30px; background: #eee;width: 100%;border: none;font-size: 14px; }
+/*.vip{width: 44px;margin:5px auto 0;display: inline-block;}*/
+.name{color: #fff;font-size: 16px; font-weight: 300;line-height: 30px;}
+.search{ text-align: left;margin: 10px 10px 0; padding-left: 40px;border: 1px solid #bfbfbf;overflow: hidden;background: url(../images/icon3.png) no-repeat 10px center #fff; background-size: 8%;}
+.search input{height: 30px; line-height: 30px; background: #fff;width: 100%;border: none;font-size: 14px; }
 .search input::-webkit-input-placeholder{color: #a8a7a7}
 .tab_title{padding: 0 20px 10px;display: flex;justify-content: space-between;border-bottom: 1px solid #dfdfdf;}
 .tab_title a{display:inline-block;color:#333;font-size: 14px; width: 70px; height: 26px; line-height: 26px; border-radius: 3px; text-align: center;}
