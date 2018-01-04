@@ -5,7 +5,9 @@
 .vip{position: absolute;right: -10px;bottom: 0;width: 44px;}
 /*.vip{width: 44px;margin:5px auto 0;display: inline-block;}*/
 .name{color: #fff;font-size: 16px; font-weight: 300;line-height: 30px;}
-.search{ text-align: left;margin: 10px 10px 0; padding-left: 40px;border: 1px solid #bfbfbf;overflow: hidden;background: url(../images/icon3.png) no-repeat 10px center #fff; background-size: 8%;}
+.search_box{ text-align: left;margin: 10px 10px 0; }
+.search_box a{height: 34px; width: 60px;margin-left: 10px; line-height: 34px;background: #199dd6;color: #fff;text-align: center;display: inline-block;float: right;font-size: 14px}
+.search{ text-align: left;padding-left: 40px;border: 1px solid #bfbfbf;overflow: hidden;background: url(../images/icon3.png) no-repeat 10px center #fff; background-size: 8%;width: 68%;height: 32px;}
 .search input{height: 30px; line-height: 30px; background: #fff;width: 100%;border: none;font-size: 14px; }
 .search input::-webkit-input-placeholder{color: #a8a7a7}
 .tab_title{padding: 0 20px 10px;display: flex;justify-content: space-between;border-bottom: 1px solid #dfdfdf;}
