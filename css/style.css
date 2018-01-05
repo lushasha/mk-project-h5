@@ -59,7 +59,9 @@
 
 .teacher_person .teacher{border-radius: 100%;width: 54px; height: 54px;float: left;}
 .teacher_person .teacher img{border-radius: 100%;width: 54px; height: 54px;}
-.teacher_num{padding: 0 8px;float: left; line-height: 54px}
+.teacher_num{padding: 0 8px; line-height: 54px;height: 54px; overflow: hidden;}
+.title_pop{float: right;}
+
 .intror{padding: 0 10px}
 .intror p{color: #666; line-height: 24px; font-size: 14px; font-weight: normal;}
 .intror_title{font-size: 16px; font-weight: normal;line-height: 40px;}
