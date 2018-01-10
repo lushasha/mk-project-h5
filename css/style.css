@@ -10,7 +10,7 @@
 .search_box a.search_img{ background: url(../images/icon3.png) no-repeat  center #199dd6; background-size: 45%;}
 
 
-.search{ text-align: left;padding-left: 10px;border: 1px solid #bfbfbf;overflow: hidden;background:#fff; background-size: 8%;width: 75%;height: 32px;}
+.search{ text-align: left;padding-left: 10px;border: 1px solid #bfbfbf;overflow: hidden;background:#fff; background-size: 8%;width: 73%;height: 32px;}
 .search input{height: 30px; line-height: 30px; background: #fff;width: 100%;border: none;font-size: 14px; }
 .search input::-webkit-input-placeholder{color: #a8a7a7}
 .tab_title{padding: 0 20px 10px;display: flex;justify-content: space-between;border-bottom: 1px solid #dfdfdf;}
